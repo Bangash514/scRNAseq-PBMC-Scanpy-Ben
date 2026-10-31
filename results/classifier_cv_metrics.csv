@@ -1,0 +1,4 @@
+model,cv_accuracy,cv_macro_f1
+Majority-class baseline,0.343,
+Logistic regression,0.834,0.718
+Random forest,0.807,0.653
