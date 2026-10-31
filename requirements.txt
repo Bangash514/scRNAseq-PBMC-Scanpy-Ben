@@ -1,0 +1,7 @@
+scanpy>=1.10,<2
+leidenalg
+igraph
+scikit-learn
+matplotlib
+numpy
+pandas

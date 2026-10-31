@@ -1,0 +1,4 @@
+cells=700 genes=765
+leiden_clusters=9  resolution=0.8
+ARI_vs_bulk_labels=0.524
+NMI_vs_bulk_labels=0.657
